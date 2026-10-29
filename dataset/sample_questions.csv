@@ -1,0 +1,23 @@
+question_type,question
+factual,What is Python?
+factual,What is a variable in programming?
+factual,What is the difference between a list and a tuple?
+factual,What is a database?
+factual,What does HTML stand for?
+factual,What is an algorithm?
+factual,What is machine learning?
+factual,What is an operating system?
+factual,What is the purpose of a function?
+factual,What is the difference between AI and traditional programming?
+reasoning,I have two exams tomorrow. How can I plan my study time?
+reasoning,I keep forgetting what I study. Suggest a simple revision method.
+reasoning,How should I debug a Python program that gives the wrong output?
+reasoning,How can I choose between learning web development and data science first?
+reasoning,Explain how breaking a large assignment into small tasks helps.
+coding,Write a Python program to add two numbers.
+coding,Write a Python program to check whether a number is even or odd.
+coding,Write a Python function that returns the square of a number.
+general,Hello! Can you help me study?
+general,Thank you for explaining that.
+general,Can you explain your answer in simpler words?
+general,What can you help me with?
